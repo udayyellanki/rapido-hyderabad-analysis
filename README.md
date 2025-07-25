@@ -16,12 +16,12 @@ This project analyzes over **100,000 ride bookings** from Rapido in Hyderabad us
 
 ---
 
-## 📌 Files
+## 📁 Project Files
 
-- [`Rapido_hyderabad.xlsx`](data/Rapido_hyderabad.xlsx) – Raw & cleaned dataset  
-- [`rapido_project_sql.sql`](sql/rapido_project_sql.sql) – SQL views, KPIs, and queries  
-- [`rapido_hyderabad_project.pbix`](powerbi/rapido_hyderabad_project.pbix) – Power BI dashboard  
-- [`dashboard_screenshot.png`](images/dashboard_screenshot.png) – Visual preview of the dashboard  
+- [`Rapido_hyderabad.xlsx`](data/Rapido_hyderabad.xlsx) – Cleaned dataset  
+- [`rapido_project_sql.sql`](sql/rapido_project_sql.sql) – All SQL views and queries  
+- 🔗 [`Download Power BI Dashboard (.pbix)`](powerbi/rapido_hyderabad_project.pbix) – Final dashboard  
+- [`dashboard_screenshot.png`](images/dashboard_screenshot.png) – Dashboard preview
 
 ---
 
